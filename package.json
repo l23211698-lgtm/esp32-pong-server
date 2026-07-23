@@ -1,0 +1,12 @@
+{
+  "name": "pong-server",
+  "version": "1.0.0",
+  "description": "Servidor de Pong para ESP32",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^8.16.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
